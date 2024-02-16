@@ -1,0 +1,23 @@
+QMainWindow {
+  background-color: #8dc1ed;
+}
+
+QPushButton {
+  background-color: red;
+  color: #fff;
+}
+
+QToolButton {
+  background-color: #ffffff;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: #ffffff;
+}
+
+QToolButton:hover {
+  background-color: #ffbee8;
+}
+
+QToolButton:pressed {
+  background-color: #ff458f;
+}

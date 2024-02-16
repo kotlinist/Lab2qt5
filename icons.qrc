@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/buttons">
+        <file>back.png</file>
+        <file>close.png</file>
+        <file>minus.png</file>
+        <file>next.png</file>
+        <file>pause.png</file>
+        <file>play.png</file>
+        <file>plus.png</file>
+        <file>repeat.png</file>
+        <file>shuffle.png</file>
+        <file>trash.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>music.png</file>
+        <file>themes/Aqua.qss</file>
+        <file>themes/MaterialDark.qss</file>
+        <file>themes/MyStyle.qss</file>
+        <file>themes/Ubuntu.qss</file>
+    </qresource>
+</RCC>
